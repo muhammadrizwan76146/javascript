@@ -1,3 +1,3 @@
-var huruf = "muhammad rizwan"; // varibel string, berupa huruf dan harus menggunakan petik
+var huruf = "muhammad rizwan"; // tipe data string, berupa huruf dan harus menggunakan petik
 
 console.log(huruf);
